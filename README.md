@@ -1,2 +1,3 @@
 # hibrit-goruntu-kriptolama
-hibrit şekilde görüntüleri kriptolayacağımız bir python yazılımı
+Hibrit şekilde görüntüleri kriptolayacağımız bir python yazılımıdır.
+Fırat Üniversitesi Teknoloji Fakültesi Fatih Özkaynak hocamızın kordinatörlüğünde bitirme projesi için yapılmıştır.
